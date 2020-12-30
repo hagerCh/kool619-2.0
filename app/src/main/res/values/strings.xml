@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kool619</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="DishName">
+        <item>Plat Tunisien</item>
+        <item>Plat Kafteji</item>
+        <item>Fricassé</item>
+        <item>Brike Thon</item>
+        <item>Brike Crevettes</item>
+        <item>Lablebi</item>
+        <item>Ojja Merguez</item>
+        <item>Ojja Crevettes</item>
+        <item>Ojja Poulet</item>
+        <item>Salade Grillée</item>
+        <item>Salade Tunisienne</item>
+        <item>Sandwich Thon</item>
+        <item>Sandwich Oeuf</item>
+        <item>Sandwich Kafteji</item>
+        <item>Chappati Thon</item>
+        <item>Mleoui double pâte</item>
+        <item>Soupe frik</item>
+        <item>Soupe Poulet</item>
+        <item>Soupe Fruits de mer</item>
+    </string-array>
+</resources>
